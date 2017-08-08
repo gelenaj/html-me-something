@@ -1,0 +1,29 @@
+body{
+  font-family: 'Lora', 'Times New Roman', 'serif';
+  font-size: 20px;
+  background-color: #fff;
+  margin: 0;
+}
+
+#heading-title{
+  text-justify: newspaper
+  vertical-align: justify middle;
+  font-family: 'Permanent Marker', 'cursive','Arial', 'sans-serif';
+}
+
+h1{
+  font-family: 'Oswald', sans-serif, Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  color: #CC2936;
+  font-style: italic;
+}
+
+.img-responsive{
+  margin-top:0px;
+  margin-bottom: 5%;
+}
+
+#block-quote{
+  font-weight: bold;
+  font-size: 20rem;
+}
